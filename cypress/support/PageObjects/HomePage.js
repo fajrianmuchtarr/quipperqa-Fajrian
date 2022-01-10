@@ -35,8 +35,13 @@ class HomePage{
 
         return cy.get('[data-test="finish"]')}
 
-        getBackToProduct(){
+    getBackToProduct(){
 
         return cy.get('[data-test="back-to-products"]')}
+
+    getDeleteItem(){
+
+        return cy.get('[data-test="remove-sauce-labs-backpack"]')}
 }
+
 export default HomePage
