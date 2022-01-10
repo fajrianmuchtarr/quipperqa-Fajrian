@@ -1,0 +1,15 @@
+{
+    
+    "env": {
+        "url"     : "https://www.saucedemo.com/",
+        "username1":"standard_user",
+        "username2":"user_standard",
+        "password1":"secret_sauce",
+        "password2":"sauce_secret"
+    }
+, 
+    "chromeWebSecurity": false
+}
+   
+
+
