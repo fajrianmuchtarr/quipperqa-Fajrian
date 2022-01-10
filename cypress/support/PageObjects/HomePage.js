@@ -1,6 +1,6 @@
 class HomePage{
 
-    getSortingAtoZ(){
+    getSorting(){
         return cy.get('[data-test="product_sort_container"]')}
 
     getItemBackpack(){
